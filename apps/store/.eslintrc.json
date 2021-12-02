@@ -16,7 +16,7 @@
             "prefix": "bgHoard",
             "style": "camelCase"
           }
-        ],
+      ],
         "@angular-eslint/component-selector": [
           "error",
           {
